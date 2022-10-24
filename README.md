@@ -1,7 +1,7 @@
 # Hi there, I'm Sumit! 🙏
 
 <img align='left' width='48%' src="https://github-readme-stats.vercel.app/api?username=thesumitshrestha&show_icons=true" />
-<img align='left' width='48%' height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesumitshrestha&layout=compact&hide=Groovy,Java,MATLAB,C++,Powershell,FORTAN" />
+<img align='left' width='48%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesumitshrestha&layout=compact&hide=Groovy,Java,MATLAB,C++,Powershell,FORTAN" />
 
 &nbsp;
 
