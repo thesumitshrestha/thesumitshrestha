@@ -13,4 +13,4 @@
 <img align='' alt='Adobe Xd' src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
 <img align='left' alt='Figma' src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white' />
 <img align='left' alt='ReactJS' src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
-<img align='left' alt='WordPress' src='https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress&logoColor=%2361DAFB'' />
+<img align='left' alt='WordPress' src='https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white' />
